@@ -152,6 +152,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure.cpp" />
+    <ClCompile Include="DoublyLinkedList.cpp" />
+    <ClCompile Include="LinkedList.cpp" />
+    <ClCompile Include="ParenthesesProblem.cpp" />
+    <ClCompile Include="PostFixEval.cpp" />
+    <ClCompile Include="Queue.cpp" />
+    <ClCompile Include="Stack.cpp" />
+    <ClCompile Include="StackLinkedList.cpp" />
+    <ClCompile Include="StackReverseProblem.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
